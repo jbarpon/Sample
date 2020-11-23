@@ -2,6 +2,8 @@
 # Locates the centre of gravity of the aircraft and the CGs of its various components
 # Estimates weights of the different components
 
+# random comment 2
+
 # Author: Arpon, Joshua
 
 # Sources: 
